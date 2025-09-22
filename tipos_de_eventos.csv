@@ -1,0 +1,41 @@
+código,evento
+110,Sessão Deliberativa
+112,Reunião Deliberativa
+115,Sessão Não Deliberativa Solene
+118,Trabalho de Comissões
+120,Audiência Pública
+122,Tomada de Depoimento
+125,Audiência Pública e Deliberação
+130,Seminário
+140,Mesa Redonda
+150,Sessão Não Deliberativa de Debates
+152,Reunião de Debate
+155,Visita Técnica
+157,Visita Oficial
+160,Painel
+170,Simpósio
+175,Sessão Preparatória - Posse
+177,Sessão Preparatória - Eleição
+180,Reunião de Instalação e Eleição
+185,Reunião de Instalação
+190,Reunião de Eleição
+191,Comissão Geral
+194,Debate
+195,Outro Evento
+196,Diligência
+197,Sessão de Eleição
+198,Palestra
+199,Conferência
+200,Ato Solene de Instalação
+201,Reunião
+202,Sessão Solene
+203,Sessão de Debates
+204,Sessão Deliberativa
+205,Teste do Painel Eletrônico
+206,Reunião Técnica
+207,Reunião de Comparecimento de Ministro(a)
+208,Evento Técnico
+209,Homenagem
+210,Tomada de Depoimento e Deliberação
+211,Tomada de Depoimento e Audiência Pública
+212,"Tom. Depoimento, Aud. Pública e Delib."
